@@ -1,0 +1,37 @@
+{
+  "name": "google-inbox-client",
+  "version": "1.0.0",
+  "description": "An unofficial client app for Google Inbox created with electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build-mac": "electron-packager . Prices",
+    "build-win": "electron-packager . Prices --platform=win32 --arch=x64 --ignore=Prices.app --overwrite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaack/google-inbox-client.git"
+  },
+  "keywords": [
+    "google",
+    "inbox",
+    "electron",
+    "js",
+    "javascript",
+    "es6",
+    "node",
+    "email",
+    "client",
+    "desktop"
+  ],
+  "author": "shaack",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaack/google-inbox-client/issues"
+  },
+  "homepage": "https://github.com/shaack/google-inbox-client#readme",
+  "devDependencies": {
+    "electron": "^2.0.2"
+  }
+}
