@@ -2,7 +2,7 @@
 
 An unofficial desktop client app for Google Inbox, created with [Electron](https://github.com/electron/electron).
 
-Just displays the Google Inbox Page in a [&lt;webview&gt;](https://electronjs.org/docs/api/webview-tag) and
+Just displays the Google Inbox page in a [&lt;webview&gt;](https://electronjs.org/docs/api/webview-tag) and
 opens external links in the default browser.
 
 ## Prebuild binaries
