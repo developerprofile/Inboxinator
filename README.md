@@ -1,4 +1,4 @@
-# google-inbox-client
+# Inboxinator
 
 An unofficial desktop client app for Google Inbox, created with [electron](https://github.com/electron/electron).
 
