@@ -1,12 +1,12 @@
 {
-  "name": "google-inbox-client",
+  "name": "Inboxinator",
   "version": "1.0.4",
   "description": "An unofficial client app for Google Inbox created with electron",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
-    "build-mac": "electron-packager . Inbox",
-    "build-win": "electron-packager . Inbox --platform=win32 --arch=x64 --ignore=Prices.app --overwrite",
+    "build-mac": "electron-packager . Inboxinator",
+    "build-win": "electron-packager . Inboxinator --platform=win32 --arch=x64 --ignore=Prices.app --overwrite",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
