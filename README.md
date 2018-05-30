@@ -18,15 +18,17 @@ It looks like the Inbox webpage in a minimal window
 
 ![Inboxinator](https://shaack.com/projekte/Inboxinator/downloads/Inboxinator_Screenshot_Inbox.png "Inboxinator")
 
-## Install dev environment (node packages)
+## Development
+
+### Install dev environment (node packages)
 
 `npm install`
 
-## Run
+### Run
 
 `npm run start`
 
-## Build (on a mac)
+### Build binaries (on a mac)
 
 - for mac: `npm run build-mac`
 - for windows: `npm run build-win` (needs wine on a mac)
