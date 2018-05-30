@@ -5,6 +5,13 @@ An unofficial desktop client app for Google Inbox, created with [electron](https
 Just displays the Google Inbox Page in a [&lt;webview&gt;](https://electronjs.org/docs/api/webview-tag) and
 opens external links in the default browser.
 
+## Download prebuild binaries
+
+- [Download Inboxinator for macOS](https://shaack.com/projekte/Inboxinator/downloads/Inboxinator-mac.zip)
+- [Download Inboxinator for Windows](https://shaack.com/projekte/Inboxinator/downloads/Inboxinator-win.zip)
+
+![Inboxinator](https://shaack.com/projekte/Inboxinator/downloads/inboxinator_screenshot_login.png "Inboxinator")
+
 ## Install dev environment (node packages)
 
 `npm install`
