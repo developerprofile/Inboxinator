@@ -10,7 +10,7 @@ opens external links in the default browser.
 - [Download Inboxinator for macOS](https://shaack.com/projekte/Inboxinator/downloads/Inboxinator-1.2.0-mac.zip)
 - [Download Inboxinator for Windows](https://shaack.com/projekte/Inboxinator/downloads/Inboxinator-1.2.0-win.zip)
 
-![Inboxinator](https://shaack.com/projekte/Inboxinator/downloads/inboxinator_screenshot_login.png "Inboxinator")
+![Inboxinator](https://shaack.com/projekte/Inboxinator/downloads/Inboxinator_Screenshot_Inbox.png "Inboxinator")
 
 
 ## Install dev environment (node packages)
