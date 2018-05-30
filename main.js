@@ -1,3 +1,8 @@
+/*
+Author: shaack (https://shaack.com)
+License: MIT
+ */
+
 const {app, BrowserWindow} = require('electron');
 const path = require('path');
 const url = require('url');
