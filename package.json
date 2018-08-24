@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/shaack/google-inbox-client#readme",
   "devDependencies": {
-    "electron": "^2.0.2",
-    "electron-packager": "^12.1.0"
+    "electron": "^2.0.8",
+    "electron-packager": "^12.1.1"
   }
 }
