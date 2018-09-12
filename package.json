@@ -1,6 +1,6 @@
 {
   "name": "inboxinator",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "An unofficial client app for Google Inbox created with Electron",
   "main": "main.js",
   "scripts": {
